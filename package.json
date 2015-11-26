@@ -1,0 +1,18 @@
+﻿{
+	"name": "lection-8",
+	"main": "server.js",
+	"dependencies": {
+		"jade": "latest",
+    "express": "latest",
+    "stylus": "latest",
+		"mongoose" : "latest",
+		"body-parser" : "latest",
+		"bower" : "latest",
+		"morgan" : "latest"
+	},
+  "devDependencies": {
+     "mocha": "latest", 
+     "should": "latest",
+     "supertest": "latest"
+  }
+}

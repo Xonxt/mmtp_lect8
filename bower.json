@@ -1,0 +1,16 @@
+{
+  "name": "lect8",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Xonxt/mmtpics_lect8",
+  "authors": [
+    "Xonxt <kov.nikit@gmail.com>"
+  ],
+  "description": "lection 8",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "latest",
+    "angular": "latest",
+    "angular-resource": "latest",
+    "angular-new-router": "latest"
+  }
+}
